@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+  <head>
+    <meta charset="utf-8">
+
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <title>我的名片</title>
+    <style>
+      body {
+        margin: 50;
+      }
+    </style>
+  </head>
+  <body>
+    <div
+      style="background-color: #b0a4a4; text-align: center; padding: 60px"
+    ></div>
+    <div
+      style="
+        max-width: 700px;
+        margin: 30px auto;
+
+        padding: 15px;
+        line-height: 1;
+      "
+    >
+      <h2 style="text-align: center">您好朋友：</h2>
+      <hr />
+      <h3>很高兴认识您</h3>
+      <h3>我叫郑世录</h3>
+      <h3>我的电话号码是:19204176111</h3>
+      <h3>我在营口盐业有限责任公司销售部工作</h3>
+      <h3>现任销售部副部长</h3>
+      <h3>我的微信号就是我的电话号</h3>
+      <h3>我们会成为永远的朋友！</h3>
+      <hr />
+      <p style="text-align: right">2024年1月</p>
+    </div>
+    <div
+      style="background-color: #b0a4a4; text-align: center; padding: 60px"
+    ></div>
+  </body>
+</html>
