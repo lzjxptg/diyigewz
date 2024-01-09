@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>我的网站</title>
+</head>
+<body>
+
+      <div style="background:#f1f1f1;text-align: center; padding: 60px">
+       
+          <h1 align="center"
+          >我的第一个网站</h1>
+      </div>
+      <!--前言-->
+      <div class="tit"><b> <h2></b>前言</div></h2>
+          <style>
+              h3 {text-indent:40px;}
+          </style>
+ 
+           <h3>人生都有第一次，而这是我第一次学习写我的网站。无论好坏，我都决定发布在网上。
+              朋友，如果你不巧进入了这里，希望能一起见证一下未来的无数可能......</h3>
+           <h3>真的不知道说点什么，先自我介绍一下：</h3>
+           <h3>我叫郑世录，是辽宁省营口市站前区人。今年57岁。
+               现工作在营口盐业有限责任公司销售部。</h3>
+           <h3>不知不觉中，我已经会写html了。那就先写到这里，一定会越来越惊喜的......</h3>
+      </div>
+</body>
+
+
+    
+
+</html>
